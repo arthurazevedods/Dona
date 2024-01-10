@@ -1,7 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+:root{
+    --bs-color-primary:#720C18;
+}
+
+h1{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-style: italic;
+}
+
+.btn-primary{
+    background-color: var(--bs-color-primary);
+    border: none;
+}
+
+.btn-primary:hover{
+    background-color: var(--bs-color-primary);
+    text-transform: uppercase;
+}
 .text-menor{
     font-size: 13px;
 }
 
 .divs-faciliades{
     width: 325px;;
+}
+
+.navbar{
+    background-color: var(--bs-color-primary);   
+}
+.navbar-logo{
+    width: 45px;
+    height: 45px;
+}
+
+.nav-link, .form-control,.btn {
+    font-size: 20px;
 }
