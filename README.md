@@ -13,7 +13,7 @@ Este projeto está atualmente implantado no Vercel. Você pode acessá-lo [aqui]
 
 ## Instalação
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/seu-projeto.git](https://github.com/arthurazevedods/Dona.git)`
+1. Clone este repositório: `git clone (https://github.com/arthurazevedods/Dona.git)`
 2. Abra o arquivo `index.html` no seu navegador.
 
 ## Próximas demandas
