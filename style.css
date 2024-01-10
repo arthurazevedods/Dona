@@ -9,7 +9,7 @@ body{
     --bs-color-primary:#720C18;
 }
 
-h1{
+h1, .loja-name{
     font-family: 'Montserrat Alternates', sans-serif;
     font-style: italic;
 }
