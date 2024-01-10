@@ -4,7 +4,7 @@ Este é o front-end de um simples e-commerce de roupas, desenvolvido utilizando 
 
 ## Implantação
 
-Este projeto está atualmente implantado no Vercel. Você pode acessá-lo [aqui]([link-do-projeto-no-vercel](https://dona-three.vercel.app/)).
+Este projeto está atualmente implantado no Vercel. Você pode acessá-lo [aqui]([(https://dona-three.vercel.app/)]).
 
 
 ## Páginas Principais
